@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EJLBarker
+- 👀 I’m interested in full stack web development. c#, ASP.NET web API's, SQL, JavaScript
+- 🌱 I’m currently learning front end technologies such as JavaScript
+- 📫 Find me on LinkedIn @EdBarker https://www.linkedin.com/in/ed-barker-182176113/
