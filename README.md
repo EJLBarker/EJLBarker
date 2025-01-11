@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EJLBarker
 - 👀 I’m interested in full stack web development. C#, ASP.NET web API's, SQL, JavaScript
-- 🌱 I’m currently learning front end technologies such as JavaScript
+- 🌱 I’m currently learning front end technologies such as JavaScript Frameworks like React
 - 📫 Find me on LinkedIn @EdBarker https://www.linkedin.com/in/ed-barker-182176113/
